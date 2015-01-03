@@ -1,0 +1,34 @@
+G:\FireFox Downloads\WPFTaskDialogSource\TaskDialog\bin\Debug\TaskDialog.xml
+G:\FireFox Downloads\WPFTaskDialogSource\TaskDialog\bin\Debug\TaskDialog.dll
+G:\FireFox Downloads\WPFTaskDialogSource\TaskDialog\bin\Debug\TaskDialog.pdb
+G:\FireFox Downloads\WPFTaskDialogSource\TaskDialog\obj\Debug\TaskDialog.csprojResolveAssemblyReference.cache
+G:\FireFox Downloads\WPFTaskDialogSource\TaskDialog\obj\Debug\ResourceDictionaries\Common.baml
+G:\FireFox Downloads\WPFTaskDialogSource\TaskDialog\obj\Debug\CommandLink.g.cs
+G:\FireFox Downloads\WPFTaskDialogSource\TaskDialog\obj\Debug\TaskDialog.g.cs
+G:\FireFox Downloads\WPFTaskDialogSource\TaskDialog\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\FireFox Downloads\WPFTaskDialogSource\TaskDialog\obj\Debug\TaskDialog_MarkupCompile.cache
+G:\FireFox Downloads\WPFTaskDialogSource\TaskDialog\obj\Debug\TaskDialog_MarkupCompile.lref
+G:\FireFox Downloads\WPFTaskDialogSource\TaskDialog\obj\Debug\CommandLink.baml
+G:\FireFox Downloads\WPFTaskDialogSource\TaskDialog\obj\Debug\TaskDialog.baml
+G:\FireFox Downloads\WPFTaskDialogSource\TaskDialog\obj\Debug\TaskDialog.g.resources
+G:\FireFox Downloads\WPFTaskDialogSource\TaskDialog\obj\Debug\TaskDialogInterop.Properties.Resources.resources
+G:\FireFox Downloads\WPFTaskDialogSource\TaskDialog\obj\Debug\TaskDialog.csproj.GenerateResource.Cache
+G:\FireFox Downloads\WPFTaskDialogSource\TaskDialog\obj\Debug\TaskDialog.dll
+G:\FireFox Downloads\WPFTaskDialogSource\TaskDialog\obj\Debug\TaskDialog.pdb
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\French for Desktop\TaskDialog\bin\Debug\TaskDialog.xml
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\French for Desktop\TaskDialog\bin\Debug\TaskDialog.dll
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\French for Desktop\TaskDialog\bin\Debug\TaskDialog.pdb
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\French for Desktop\TaskDialog\obj\Debug\TaskDialog.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\French for Desktop\TaskDialog\obj\Debug\ResourceDictionaries\Common.baml
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\French for Desktop\TaskDialog\obj\Debug\CommandLink.g.cs
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\French for Desktop\TaskDialog\obj\Debug\TaskDialog.g.cs
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\French for Desktop\TaskDialog\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\French for Desktop\TaskDialog\obj\Debug\TaskDialog_MarkupCompile.cache
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\French for Desktop\TaskDialog\obj\Debug\TaskDialog_MarkupCompile.lref
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\French for Desktop\TaskDialog\obj\Debug\CommandLink.baml
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\French for Desktop\TaskDialog\obj\Debug\TaskDialog.baml
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\French for Desktop\TaskDialog\obj\Debug\TaskDialog.g.resources
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\French for Desktop\TaskDialog\obj\Debug\TaskDialogInterop.Properties.Resources.resources
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\French for Desktop\TaskDialog\obj\Debug\TaskDialog.csproj.GenerateResource.Cache
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\French for Desktop\TaskDialog\obj\Debug\TaskDialog.dll
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\French for Desktop\TaskDialog\obj\Debug\TaskDialog.pdb

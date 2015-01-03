@@ -1,0 +1,18 @@
+c:\users\thomas\documents\visual studio 2015\Projects\French for Desktop\French for Desktop\bin\Debug\French for Desktop.exe.config
+c:\users\thomas\documents\visual studio 2015\Projects\French for Desktop\French for Desktop\bin\Debug\French for Desktop.exe
+c:\users\thomas\documents\visual studio 2015\Projects\French for Desktop\French for Desktop\bin\Debug\French for Desktop.pdb
+c:\users\thomas\documents\visual studio 2015\Projects\French for Desktop\French for Desktop\obj\Debug\MainWindow.g.cs
+c:\users\thomas\documents\visual studio 2015\Projects\French for Desktop\French for Desktop\obj\Debug\App.g.cs
+c:\users\thomas\documents\visual studio 2015\Projects\French for Desktop\French for Desktop\obj\Debug\French for Desktop_MarkupCompile.cache
+c:\users\thomas\documents\visual studio 2015\Projects\French for Desktop\French for Desktop\obj\Debug\French for Desktop_MarkupCompile.lref
+c:\users\thomas\documents\visual studio 2015\Projects\French for Desktop\French for Desktop\obj\Debug\MainWindow.baml
+c:\users\thomas\documents\visual studio 2015\Projects\French for Desktop\French for Desktop\obj\Debug\French for Desktop.g.resources
+c:\users\thomas\documents\visual studio 2015\Projects\French for Desktop\French for Desktop\obj\Debug\French_for_Desktop.Properties.Resources.resources
+c:\users\thomas\documents\visual studio 2015\Projects\French for Desktop\French for Desktop\obj\Debug\French for Desktop.csproj.GenerateResource.Cache
+c:\users\thomas\documents\visual studio 2015\Projects\French for Desktop\French for Desktop\obj\Debug\French for Desktop.exe
+c:\users\thomas\documents\visual studio 2015\Projects\French for Desktop\French for Desktop\obj\Debug\French for Desktop.pdb
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\French for Desktop\French for Desktop\obj\Debug\French for Desktop.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\French for Desktop\French for Desktop\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\French for Desktop\French for Desktop\bin\Debug\TaskDialog.dll
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\French for Desktop\French for Desktop\bin\Debug\TaskDialog.pdb
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\French for Desktop\French for Desktop\bin\Debug\TaskDialog.xml
