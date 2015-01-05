@@ -1,0 +1,17 @@
+C:\Users\Thomas\Source\Repos\French-for-Desktop\TaskDialog\bin\Release\TaskDialog.xml
+C:\Users\Thomas\Source\Repos\French-for-Desktop\TaskDialog\bin\Release\TaskDialog.dll
+C:\Users\Thomas\Source\Repos\French-for-Desktop\TaskDialog\bin\Release\TaskDialog.pdb
+C:\Users\Thomas\Source\Repos\French-for-Desktop\TaskDialog\obj\Release\TaskDialog.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Source\Repos\French-for-Desktop\TaskDialog\obj\Release\ResourceDictionaries\Common.baml
+C:\Users\Thomas\Source\Repos\French-for-Desktop\TaskDialog\obj\Release\CommandLink.g.cs
+C:\Users\Thomas\Source\Repos\French-for-Desktop\TaskDialog\obj\Release\TaskDialog.g.cs
+C:\Users\Thomas\Source\Repos\French-for-Desktop\TaskDialog\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Thomas\Source\Repos\French-for-Desktop\TaskDialog\obj\Release\TaskDialog_MarkupCompile.cache
+C:\Users\Thomas\Source\Repos\French-for-Desktop\TaskDialog\obj\Release\TaskDialog_MarkupCompile.lref
+C:\Users\Thomas\Source\Repos\French-for-Desktop\TaskDialog\obj\Release\CommandLink.baml
+C:\Users\Thomas\Source\Repos\French-for-Desktop\TaskDialog\obj\Release\TaskDialog.baml
+C:\Users\Thomas\Source\Repos\French-for-Desktop\TaskDialog\obj\Release\TaskDialog.g.resources
+C:\Users\Thomas\Source\Repos\French-for-Desktop\TaskDialog\obj\Release\TaskDialogInterop.Properties.Resources.resources
+C:\Users\Thomas\Source\Repos\French-for-Desktop\TaskDialog\obj\Release\TaskDialog.csproj.GenerateResource.Cache
+C:\Users\Thomas\Source\Repos\French-for-Desktop\TaskDialog\obj\Release\TaskDialog.dll
+C:\Users\Thomas\Source\Repos\French-for-Desktop\TaskDialog\obj\Release\TaskDialog.pdb

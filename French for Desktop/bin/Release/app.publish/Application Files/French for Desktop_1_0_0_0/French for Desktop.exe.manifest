@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="French for Desktop.exe" version="1.0.0.0" publicKeyToken="bbe456ba6f7a8d04" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="French for Desktop" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="French for Desktop.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="French for Desktop.exe" size="22448">
+      <assemblyIdentity name="French for Desktop" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>L9xWXSnYTAMRqiICUg96JV4Pl4CS3FI1CnTqeSOvBMY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TaskDialog.dll" size="80896">
+      <assemblyIdentity name="TaskDialog" version="1.0.5482.40190" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>XwRS8vDyyzSWdjB8tVcO8auvfnoB5f6bMNibsa170b0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="French for Desktop.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>JG1GKtsf3BhkSxT7QOQpJrzSGP25qV8tpec1v89hHIQ=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=THOMAS\Thomas" issuerKeyHash="c8661e760b83a1933a9ca1407683aaf773be465f" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>2sAvslKfmTOEDOAEtfYfOgSO+Qhv9ZKEQ9ImCj4TdA4=</DigestValue></Reference></SignedInfo><SignatureValue>Y1q/fvG/A8A/+0lvdZ4ROPUQi+vuggpasi2pGcEJbngTAvIQ/sG/FP4gGnskLDNRSmPam4dq26iEMqcbrpI1Yjb5CbXGomVIlVwK6aTg6lsVYL/x05VGdlD/s/YISaXp0Qd6It5KUtHT9a/rmn3zVMqjQUv4T6CDPGMOy1C55aU=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>vN4I2biSfx6CyyA1wNa4s56fWBf67smdN7AmjLBF0G23B2T8Bm7KfFoPgCN9REMb699SEejyTQ8eKDtJsfTvnmmVQXuU94+9qPvGF9xDwf9ipeDLTCfjR7N09M/YfE0rZ9J4Z3unn/Q/hinAv9LW4swOg/d4LoEwYFSCSFPg8BE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="0e74133e0a26d2438492f56f08f98e043a1ff6b504e00c8433999f52b22fc0da" Description="" Url=""><as:assemblyIdentity name="French for Desktop.exe" version="1.0.0.0" publicKeyToken="bbe456ba6f7a8d04" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=THOMAS\Thomas</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Q6ZDqzUhcoYR5wsQwLyaH0HanEfJq2A1GWTjhUfadxw=</DigestValue></Reference></SignedInfo><SignatureValue>S746ldu/k3KiwRt5K3tFDHJsC8fGtRnff78ED98IS3TMe03a8ftZxXUjNAQCxCDr0bcCdqsQbUj4q4vAh7k682amsYGyeXuEnAlWTH1lpLkMoXlsLgM3y4K9r/b91v+EYmhXY9b/dwFr0RLvy+xJ0dzDdUwxbQQspQaYxfsytN8=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>vN4I2biSfx6CyyA1wNa4s56fWBf67smdN7AmjLBF0G23B2T8Bm7KfFoPgCN9REMb699SEejyTQ8eKDtJsfTvnmmVQXuU94+9qPvGF9xDwf9ipeDLTCfjR7N09M/YfE0rZ9J4Z3unn/Q/hinAv9LW4swOg/d4LoEwYFSCSFPg8BE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBzTCCATagAwIBAgIQHctkElw+DJlJGa15b2qEJDANBgkqhkiG9w0BAQsFADAlMSMwIQYDVQQDHhoAVABIAE8ATQBBAFMAXABUAGgAbwBtAGEAczAeFw0xNTAxMDUwNTA1NDVaFw0xNjAxMDUxMTA1NDVaMCUxIzAhBgNVBAMeGgBUAEgATwBNAEEAUwBcAFQAaABvAG0AYQBzMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC83gjZuJJ/HoLLIDXA1riznp9YF/ruyZ03sCaMsEXQbbcHZPwGbsp8Wg+AI31EQxvr31IR6PJNDx4oO0mx9O+eaZVBe5T3j72o+8YX3EPB/2Kl4MtMJ+NHs3T0z9h8TStn0nhne6ef9D+GKcC/0tbizA6D93gugTBgVIJIU+DwEQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBADz7NotwikB7yGAGSqGP43qw60UCYg6Y+LCnMks0IxnXr75C9q4YckQE7N7wBckh9IUpT3DFZ4xBeDVGedx/uOhttptCK9beEMvXfTpCdvRaoJPfdi22HxrDfUJDSkhDpkMGSUpxbVJ4ER9GiGWGHS65hpcD6tm8hBUF2h4VmDUb</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

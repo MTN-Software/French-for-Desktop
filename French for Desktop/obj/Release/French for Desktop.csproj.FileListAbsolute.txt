@@ -1,0 +1,22 @@
+C:\Users\Thomas\Source\Repos\French-for-Desktop\French for Desktop\bin\Release\French for Desktop.exe.config
+C:\Users\Thomas\Source\Repos\French-for-Desktop\French for Desktop\bin\Release\French for Desktop.exe
+C:\Users\Thomas\Source\Repos\French-for-Desktop\French for Desktop\bin\Release\French for Desktop.pdb
+C:\Users\Thomas\Source\Repos\French-for-Desktop\French for Desktop\bin\Release\TaskDialog.dll
+C:\Users\Thomas\Source\Repos\French-for-Desktop\French for Desktop\bin\Release\TaskDialog.pdb
+C:\Users\Thomas\Source\Repos\French-for-Desktop\French for Desktop\bin\Release\TaskDialog.xml
+C:\Users\Thomas\Source\Repos\French-for-Desktop\French for Desktop\obj\Release\French for Desktop.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Source\Repos\French-for-Desktop\French for Desktop\obj\Release\MainWindow.g.cs
+C:\Users\Thomas\Source\Repos\French-for-Desktop\French for Desktop\obj\Release\App.g.cs
+C:\Users\Thomas\Source\Repos\French-for-Desktop\French for Desktop\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Thomas\Source\Repos\French-for-Desktop\French for Desktop\obj\Release\French for Desktop_MarkupCompile.cache
+C:\Users\Thomas\Source\Repos\French-for-Desktop\French for Desktop\obj\Release\French for Desktop_MarkupCompile.lref
+C:\Users\Thomas\Source\Repos\French-for-Desktop\French for Desktop\obj\Release\MainWindow.baml
+C:\Users\Thomas\Source\Repos\French-for-Desktop\French for Desktop\obj\Release\French for Desktop.g.resources
+C:\Users\Thomas\Source\Repos\French-for-Desktop\French for Desktop\obj\Release\French_for_Desktop.Properties.Resources.resources
+C:\Users\Thomas\Source\Repos\French-for-Desktop\French for Desktop\obj\Release\French for Desktop.csproj.GenerateResource.Cache
+C:\Users\Thomas\Source\Repos\French-for-Desktop\French for Desktop\obj\Release\French for Desktop.exe
+C:\Users\Thomas\Source\Repos\French-for-Desktop\French for Desktop\obj\Release\French for Desktop.pdb
+C:\Users\Thomas\Source\Repos\French-for-Desktop\French for Desktop\bin\Release\French for Desktop.exe.manifest
+C:\Users\Thomas\Source\Repos\French-for-Desktop\French for Desktop\bin\Release\French for Desktop.application
+C:\Users\Thomas\Source\Repos\French-for-Desktop\French for Desktop\obj\Release\French for Desktop.exe.manifest
+C:\Users\Thomas\Source\Repos\French-for-Desktop\French for Desktop\obj\Release\French for Desktop.application
