@@ -16,5 +16,5 @@ DEBUG;TRACE
 13-208991617
 CommandLink.xaml;ResourceDictionaries\Common.xaml;TaskDialog.xaml;
 
-False
+True
 

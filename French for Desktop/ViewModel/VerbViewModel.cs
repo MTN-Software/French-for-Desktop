@@ -483,7 +483,10 @@ namespace French_for_Desktop
         {
             get { return new RelayCommand( new Action(() => App.Current.MainWindow.Close())); }
         }
-
+        public ICommand DispAbout
+        {
+            get { return new RelayCommand(new Action(() => { AboutWindow about = new AboutWindow(); })); }
+        }
         /* Does not work for some reason...
         private static bool CanClose()
         {

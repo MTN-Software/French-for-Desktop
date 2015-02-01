@@ -25,12 +25,10 @@ C:\Users\Thomas\Source\Repos\French-for-Desktop\French for Desktop\bin\Debug\Tas
 C:\Users\Thomas\Source\Repos\French-for-Desktop\French for Desktop\bin\Debug\TaskDialog.pdb
 C:\Users\Thomas\Source\Repos\French-for-Desktop\French for Desktop\bin\Debug\TaskDialog.xml
 C:\Users\Thomas\Source\Repos\French-for-Desktop\French for Desktop\obj\Debug\French for Desktop.csprojResolveAssemblyReference.cache
-C:\Users\Thomas\Source\Repos\French-for-Desktop\French for Desktop\obj\Debug\MainWindow.g.cs
 C:\Users\Thomas\Source\Repos\French-for-Desktop\French for Desktop\obj\Debug\App.g.cs
 C:\Users\Thomas\Source\Repos\French-for-Desktop\French for Desktop\obj\Debug\GeneratedInternalTypeHelper.g.cs
 C:\Users\Thomas\Source\Repos\French-for-Desktop\French for Desktop\obj\Debug\French for Desktop_MarkupCompile.cache
 C:\Users\Thomas\Source\Repos\French-for-Desktop\French for Desktop\obj\Debug\French for Desktop_MarkupCompile.lref
-C:\Users\Thomas\Source\Repos\French-for-Desktop\French for Desktop\obj\Debug\MainWindow.baml
 C:\Users\Thomas\Source\Repos\French-for-Desktop\French for Desktop\obj\Debug\French for Desktop.g.resources
 C:\Users\Thomas\Source\Repos\French-for-Desktop\French for Desktop\obj\Debug\French_for_Desktop.Properties.Resources.resources
 C:\Users\Thomas\Source\Repos\French-for-Desktop\French for Desktop\obj\Debug\French for Desktop.csproj.GenerateResource.Cache
@@ -38,3 +36,7 @@ C:\Users\Thomas\Source\Repos\French-for-Desktop\French for Desktop\bin\Debug\Fre
 C:\Users\Thomas\Source\Repos\French-for-Desktop\French for Desktop\bin\Debug\French for Desktop.application
 C:\Users\Thomas\Source\Repos\French-for-Desktop\French for Desktop\obj\Debug\French for Desktop.exe.manifest
 C:\Users\Thomas\Source\Repos\French-for-Desktop\French for Desktop\obj\Debug\French for Desktop.application
+C:\Users\Thomas\Source\Repos\French-for-Desktop\French for Desktop\obj\Debug\View\AboutWindow.g.cs
+C:\Users\Thomas\Source\Repos\French-for-Desktop\French for Desktop\obj\Debug\View\MainWindow.g.cs
+C:\Users\Thomas\Source\Repos\French-for-Desktop\French for Desktop\obj\Debug\View\AboutWindow.baml
+C:\Users\Thomas\Source\Repos\French-for-Desktop\French for Desktop\obj\Debug\View\MainWindow.baml
